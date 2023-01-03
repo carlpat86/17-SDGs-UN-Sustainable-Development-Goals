@@ -32,6 +32,44 @@ Our mission is to create a project that contributes to solving one or more of th
   ### Action Plan
   We encourage non-governmental actors to make an increasingly active contribution to sustainable development.
   
+  ## List of Ongoing AI Projects for Achieving SDGs
+
+### 1. No Poverty
+- 1.1 [Navigation System for Blind People Living Below Poverty Line](https://amitray.com/artificial-intelligence-for-assisting-blind-people/)
+### 2. Zero Hunger
+
+### 3. Good Health and Well-being
+- 3.1 [Artificial Intelligence to Combat Antibiotic Resistant Bacteria](https://amitray.com/artificial-intelligence-for-antibiotic-resistant-bacteria/)
+
+### 4. Quality Education
+
+### 5. Gender Equality
+
+### 6. Clean Water 
+
+### 7. Affordable and Clean Energy
+
+### 8. Decent Work and Economic Growth
+
+### 9. Industry, Innovation and Infrastructure
+
+### 10. Reduced Inequality
+
+### 11. Sustainable Cities and Communities
+
+### 12. Responsible Consumption and Production
+
+### 13. Climate Action
+- 13.1 [AI for Climate Change Biodiversity and Earth System Model](https://amitray.com/artificial-intelligence-for-climate-change-and-earth-system-models/)
+
+### 14. Life Below Water
+
+### 15. Life on Land
+
+### 16. Peace, Justice and Strong Institutions
+
+### 17. Partnerships for the Goals
+  
   ### Acknowledgements
   Many thanks to the [Compassionate AI Lab](https://amitray.com/compassionate-ai-lab/), [OpenCV](https://github.com/opencv/opencv), [TensorFlow](https://github.com/tensorflow/tensorflow), [Keras](https://github.com/keras-team/keras) and [Torch](https://github.com/torch/torch7) groups and contributors. 
 
