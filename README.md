@@ -33,7 +33,7 @@ Our mission is to create a project that contributes to solving one or more of th
   We encourage non-governmental actors to make an increasingly active contribution to sustainable development.
   
   ### Acknowledgements
-  Many thanks to the [OpenCV](https://github.com/opencv/opencv), [TensorFlow](https://github.com/tensorflow/tensorflow), [Keras](https://github.com/keras-team/keras) and [Torch](https://github.com/torch/torch7) groups and contributors. 
+  Many thanks to the [Compassionate AI Lab](https://amitray.com/compassionate-ai-lab/), [OpenCV](https://github.com/opencv/opencv), [TensorFlow](https://github.com/tensorflow/tensorflow), [Keras](https://github.com/keras-team/keras) and [Torch](https://github.com/torch/torch7) groups and contributors. 
 
   I would also like to thank the greater open source community, in which the assortment of concrete examples and code were of great help.
 
