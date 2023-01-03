@@ -28,4 +28,19 @@ Our mission is to create a project that contributes to solving one or more of th
   1. SDGs 1 to 6 reflect this social agenda and the human centered approach to development required to underpin and accelerate sustainable economic growth.
   2. SDGs 7 to 15 highlight critical issues relating to such a transformation.
   3. SDGs 16 and 17 speak to the means by which social contracts are strengthened within and among States.
+  
+  ### Action Plan
+  We encourage non-governmental actors to make an increasingly active contribution to sustainable development.
+  
+  ### Acknowledgements
+  Many thanks to the [OpenCV](https://github.com/opencv/opencv), [TensorFlow](https://github.com/tensorflow/tensorflow), [Keras](https://github.com/keras-team/keras) and [Torch](https://github.com/torch/torch7) groups and contributors. 
+
+  I would also like to thank the greater open source community, in which the assortment of concrete examples and code were of great help.
+
+  Finally, but not least, infinite thanks to my family, friends and professors for providing financial, technical, social support and expertise for my ongoing learning journey during these hard times. Your help has been beyond description.
+
+  
+  *This list is not final, as the project is ongoing.
+  
+  If you have any questions send me a message and I will try my best to reply!!! Thanks for reading!
  
